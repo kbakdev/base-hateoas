@@ -1,7 +1,7 @@
 # Base HATEOAS
 
 You can run the application by using
-```./mvnw spring-boot:run.```
+```./mvnw spring-boot:run```.
 
 Alternatively, you can build the JAR file with
 ```./mvnw clean package```
